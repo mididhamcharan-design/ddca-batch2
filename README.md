@@ -11,17 +11,32 @@ DEVIREDDY VISHNU SAI KUMAR REDDY-2620030306
 
 Supervisor
 Kartheek V
-
+-------------------------------------------------------------------------------------
 src/ - Circuit implementation
+
 docs/ - Presentation and documentation
+
+
 data/ - Supporting data and test cases
+
 results/ - Simulation results
+
 reports/ - Project reports
+
 Setup and Execution
+
 Open the .circ file in Logisim.
+
 Provide the required 4-bit inputs.
+
 Select the required operation.
+
 Run the simulation.
+
 Observe and verify the output.
+
 Current Project Status
+
 Current Phase: Implementation / Testing
+
+
