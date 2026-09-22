@@ -4,8 +4,11 @@ Design and Simulation of a 4-Bit Binary to decimal conversion and display system
 -------------------------------------------------------------------------------------
 Team Members
 SANJAY KILARI-2620030215
+
 PADUCHURU SRI DEEKSHITH-2620030285
+
 MIDIDHAM CHARAN TEJ-2620030291
+
 DEVIREDDY VISHNU SAI KUMAR REDDY-2620030306
 -------------------------------------------------------------------------------------
 
