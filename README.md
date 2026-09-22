@@ -22,9 +22,9 @@ data/ - Supporting data and test cases
 results/ - Simulation results
 
 reports/ - Project reports
-
+--------------------------------------------------------------------------------------
 Setup and Execution
-
+___________________________________________________________________________________
 Open the .circ file in Logisim.
 
 Provide the required 4-bit inputs.
