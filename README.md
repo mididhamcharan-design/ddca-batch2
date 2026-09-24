@@ -3,6 +3,8 @@ KLH-FED-2026-session-6-Batch-2
 Design and Simulation of a 4-Bit Binary to decimal conversion and display system
 -------------------------------------------------------------------------------------
 Team Members
+
+
 SANJAY KILARI-2620030215
 
 PADUCHURU SRI DEEKSHITH-2620030285
